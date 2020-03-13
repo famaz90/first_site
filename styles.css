@@ -1,0 +1,200 @@
+/**************** Tag Level *****************/
+
+body {
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+    font-family: 'Baloo Chettan 2', cursive;
+    color: #40514E;
+    font-size: 20px;
+}
+
+hr {
+height: 10px;
+border: none;
+background-color: white;
+margin: 0px;
+}
+
+
+
+/**************** Div_class Level *****************/
+
+ .Top_container {
+    background-color: #d9f0f0;
+    height: 800px;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+.Mid_container {
+    background-color:#263f44;
+    height: 600px
+}
+
+.develop-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.design-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.profile {
+    line-height: 2;
+    background-color: #fafafa;
+    height: 600px;
+}
+
+.skills {
+    background-color: #fafafa;
+    height: 700px;
+}
+
+.contact-me {
+    background-color: #fafafa;
+    height: 450px;
+}
+
+.bottom-container {
+    background-color:#d9f0f0;
+    height: 150px;
+}
+
+/**************** Class Level *****************/
+
+.Fahad {
+    color: rgb(50, 158, 177);
+    font-size: 4.375rem;
+    font-family: 'Sacramento', cursive;
+    margin: auto, auto, 0, auto;
+}
+
+.webdev {
+    color:rgb(164, 177, 50);
+    font-size: 1.25rem;
+}
+
+.work-space {
+    margin-top: 85px;
+    height: 470px;
+    width: 100%;
+}
+
+
+.spaceship_2 {
+    width: 140px;
+    position: absolute;
+    right: 300px;
+    top: 270px;
+}
+
+.profile-pic {
+    margin-top: 50px;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+h2 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: rgb(50, 158, 177);
+    font-size: 50px;
+    margin: 0px;
+}
+
+.get-in-touch {
+    position: relative;
+    top: 30px;
+}
+
+h3 {
+    font-family: 'Baloo Chettan 2', cursive;
+    color:rgb(164, 177, 50);
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.freelance-h3 {
+    margin: 50px;
+    position: relative;
+    top: 20px;
+    font-size: 30px;
+}
+
+.development {
+    width: 25%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
+
+.design {
+    width: 25%;
+    border-radius: 50%;
+    float: right;
+    margin-left: 30px;
+
+}
+
+.prof-para {
+    text-align: center;
+}
+
+.dev-desc {
+    margin-bottom: 30px;
+}
+
+.skills-h2 {
+    position: relative;
+    top: 30px;
+}
+
+.btn {
+    position: relative;
+    top: 20px;
+    box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+
+.btn:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.footer-link {
+    position: relative;
+    top: 30px;
+    color: mediumaquamarine;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.footer-para {
+    position: relative;
+    top: 50px;
+}
